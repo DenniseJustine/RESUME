@@ -11,10 +11,10 @@ Activity No. WDL T1-LA2 / ADL T1-LA2
 
 </head>
 <body>
-    <div class="image-container">
+    <div class="photo">
         <img src="c:\Users\admin\Pictures\411010138_389535093580528_5505822686357867099_n.jpg" alt="center">
     </div>
-    <div class="container">
+    <div class="photo-image">
         <header>
             <h1> My Resume </h1>
             <ul>
