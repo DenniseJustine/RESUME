@@ -1,0 +1,47 @@
+<style>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: pink;
+}
+.photo {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.photo img {
+    width: 200px;
+    height: auto;
+    boarder-radius: 70%;
+    boarder: 4px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0, pink, alpha);
+}
+.container {
+    h1 {
+        max-width: 1300px;
+        margin: 20px auto;
+        background-color: black;
+        padding: 20px;
+        boarder-radius: 8px;
+        box-shadow: 0 0 10px rgb(from color p g b);
+    }
+}
+h1 {
+    text-align: center;
+    color: pink;
+}
+.section {
+    margin-bottom: 20px;
+}
+.section h2 {
+    boarder-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+}
+.section ul {
+    list-style-type: none;
+    padding: 5px;
+}
+.section ul li {
+    margin-bottom: 5px;
+}
+</style>
